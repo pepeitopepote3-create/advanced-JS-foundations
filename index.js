@@ -19,6 +19,7 @@
 
 const playerGuess = 3
 const correctAnswer = 6
+console.log("hola")
 
 
 const message = playerGuess === correctAnswer ? "correct"
